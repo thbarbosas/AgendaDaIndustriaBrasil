@@ -1,7 +1,7 @@
 {
  "meta": {
-  "atualizadoEm": "2026-11-04T10:45:00-03:00",
-  "turno": "manhã",
+  "atualizadoEm": "2026-11-04T13:33:15-03:00",
+  "turno": "tarde",
   "agenda": "Atualização automática às 7h31 e às 13h31 (horário de Brasília)",
   "observacao": "Datas e locais conforme sites oficiais, organizadores e imprensa especializada. Onde o site oficial não foi confirmado, o botão abre uma busca. O potencial de GLP é uma leitura comercial do perfil de público de cada feira. Confirme sempre antes de se programar."
  },
@@ -108,6 +108,27 @@
    "glp": "indústria baiana de pequeno e médio porte; espaço de crédito para transição energética"
   },
   {
+   "id": "fipa-2026",
+   "nome": "FIPA 2026 – XVII Feira da Indústria do Pará",
+   "tipo": "Feira",
+   "segmentos": [
+    "Multissetorial",
+    "Construção e mineração",
+    "Bioenergia e saneamento"
+   ],
+   "inicio": "2026-05-20",
+   "fim": "2026-05-23",
+   "cidade": "Belém",
+   "uf": "PA",
+   "local": "Hangar Centro de Convenções e Feiras da Amazônia",
+   "preco": "Visitação gratuita com inscrição prévia; Congresso Técnico pago",
+   "gratuito": true,
+   "link": "https://fipa.fiepa.org.br",
+   "organizador": "Sistema FIEPA",
+   "potencial": "Relacionamento",
+   "glp": "mineração, agroindústria e bioeconomia da Amazônia trocando diesel e lenha por GLP"
+  },
+  {
    "id": "fispal-tecnologia-tecnocarne-2026",
    "nome": "Fispal Tecnologia + TecnoCarne 2026",
    "tipo": "Feira",
@@ -165,6 +186,27 @@
    "organizador": "BMComm",
    "potencial": "Médio",
    "glp": "envase e embalagem de alimentos e bebidas no Norte e Nordeste"
+  },
+  {
+   "id": "mec-show-2026",
+   "nome": "Mec Show 2026",
+   "tipo": "Feira",
+   "segmentos": [
+    "Metalmecânica e fundição",
+    "Construção e mineração",
+    "Energia e eficiência"
+   ],
+   "inicio": "2026-08-04",
+   "fim": "2026-08-06",
+   "cidade": "Serra",
+   "uf": "ES",
+   "local": "Pavilhão de Carapina",
+   "preco": "Inscrição pelo site oficial",
+   "gratuito": false,
+   "link": "https://www.mecshow.com.br",
+   "organizador": "Milanez & Milaneze e CDMec",
+   "potencial": "Alto",
+   "glp": "caldeiraria, tratamento térmico, corte e solda na cadeia metalmecânica capixaba"
   },
   {
    "id": "fenasucro-agrocana-2026",
@@ -324,6 +366,28 @@
    "glp": "polo metalmecânico da Serra Gaúcha: tratamento térmico, pintura e fundição"
   },
   {
+   "id": "expoind-goias-2026",
+   "nome": "Expoind 2026 – Feira de Negócios e Soluções para a Indústria Goiana",
+   "tipo": "Feira",
+   "segmentos": [
+    "Multissetorial",
+    "Alimentos e bebidas",
+    "Metalmecânica e fundição",
+    "Plásticos e química"
+   ],
+   "inicio": "2026-10-27",
+   "fim": "2026-10-29",
+   "cidade": "Goiânia",
+   "uf": "GO",
+   "local": "Centro de Convenções de Goiânia",
+   "preco": "Consulte o organizador",
+   "gratuito": false,
+   "link": "https://www.google.com/search?q=Expoind+2026+Fieg+Goi%C3%A2nia",
+   "organizador": "Sistema FIEG",
+   "potencial": "Médio",
+   "glp": "agroindústria, alimentos, química e farmacêutica goianas com caldeiras e secadores"
+  },
+  {
    "id": "fenatran-2026",
    "nome": "Fenatran 2026",
    "tipo": "Feira",
@@ -382,26 +446,6 @@
    "glp": "fabricantes de revestimentos cerâmicos: fornos e secadores contínuos"
   },
   {
-   "id": "fimec-2027",
-   "nome": "Fimec 2027",
-   "tipo": "Feira",
-   "segmentos": [
-    "Têxtil, couro e calçados",
-    "Plásticos e química"
-   ],
-   "inicio": "2027-03-09",
-   "fim": "2027-03-11",
-   "cidade": "Novo Hamburgo",
-   "uf": "RS",
-   "local": "Pavilhões da Fenac",
-   "preco": "Consulte no site oficial",
-   "gratuito": false,
-   "link": "https://www.fimec.com.br",
-   "organizador": "Fenac",
-   "potencial": "Alto",
-   "glp": "50ª edição; curtumes e calçadistas: secagem de couro, caldeiras e estufas"
-  },
-  {
    "id": "feira-da-industria-fiec-2027",
    "nome": "Feira da Indústria FIEC 2027",
    "tipo": "Feira",
@@ -422,6 +466,26 @@
    "potencial": "Relacionamento",
    "glp": "sindicatos da indústria cearense e indicações",
    "dataAprox": "Data de 2027 ainda não divulgada; a 1ª edição foi em março de 2026."
+  },
+  {
+   "id": "fimec-2027",
+   "nome": "Fimec 2027",
+   "tipo": "Feira",
+   "segmentos": [
+    "Têxtil, couro e calçados",
+    "Plásticos e química"
+   ],
+   "inicio": "2027-03-09",
+   "fim": "2027-03-11",
+   "cidade": "Novo Hamburgo",
+   "uf": "RS",
+   "local": "Pavilhões da Fenac",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "https://www.fimec.com.br",
+   "organizador": "Fenac",
+   "potencial": "Alto",
+   "glp": "50ª edição; curtumes e calçadistas: secagem de couro, caldeiras e estufas"
   },
   {
    "id": "plastico-brasil-2027",
@@ -523,6 +587,47 @@
    "glp": "metalmecânica do Sul: corte, solda e tratamento térmico"
   },
   {
+   "id": "fi-south-america-2027",
+   "nome": "Fi South America 2027",
+   "tipo": "Feira",
+   "segmentos": [
+    "Alimentos e bebidas"
+   ],
+   "inicio": "2027-08-01",
+   "fim": "2027-08-01",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "local": "São Paulo Expo",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "https://www.figlobal.com/southamerica.html",
+   "organizador": "Informa Markets",
+   "potencial": "Médio",
+   "glp": "P&D e compras da indústria de alimentos",
+   "dataAprox": "Data de 2027 ainda não divulgada; costuma ocorrer em agosto."
+  },
+  {
+   "id": "embala-nordeste-2027",
+   "nome": "Embala Nordeste 2027",
+   "tipo": "Feira",
+   "segmentos": [
+    "Embalagens e gráfica",
+    "Alimentos e bebidas"
+   ],
+   "inicio": "2027-08-01",
+   "fim": "2027-08-01",
+   "cidade": "Fortaleza",
+   "uf": "CE",
+   "local": "Centro de Eventos do Ceará",
+   "preco": "Consulte no site oficial",
+   "gratuito": false,
+   "link": "https://embalane.com.br",
+   "organizador": "BMComm",
+   "potencial": "Médio",
+   "glp": "envase e embalagem de alimentos e bebidas no Norte e Nordeste",
+   "dataAprox": "Data de 2027 ainda não divulgada; costuma ocorrer em agosto."
+  },
+  {
    "id": "plastfair-induspar-2027",
    "nome": "Plastfair + Induspar 2027",
    "tipo": "Feira",
@@ -541,6 +646,27 @@
    "organizador": "",
    "potencial": "Médio",
    "glp": "indústria paranaense de plástico e metalmecânica"
+  },
+  {
+   "id": "mec-show-2027",
+   "nome": "Mec Show 2027",
+   "tipo": "Feira",
+   "segmentos": [
+    "Metalmecânica e fundição",
+    "Construção e mineração",
+    "Energia e eficiência"
+   ],
+   "inicio": "2027-08-05",
+   "fim": "2027-08-07",
+   "cidade": "Serra",
+   "uf": "ES",
+   "local": "Carapina Centro de Eventos",
+   "preco": "Inscrição pelo site oficial",
+   "gratuito": false,
+   "link": "https://www.mecshow.com.br",
+   "organizador": "Milanez & Milaneze",
+   "potencial": "Alto",
+   "glp": "caldeiraria, tratamento térmico, corte e solda na cadeia metalmecânica capixaba"
   },
   {
    "id": "fimma-brasil-2027",
@@ -581,47 +707,6 @@
    "organizador": "RX Brasil",
    "potencial": "Médio",
    "glp": "usinas e fornecedores: empilhadeiras, oficinas e utilidades industriais"
-  },
-  {
-   "id": "fi-south-america-2027",
-   "nome": "Fi South America 2027",
-   "tipo": "Feira",
-   "segmentos": [
-    "Alimentos e bebidas"
-   ],
-   "inicio": "2027-08-01",
-   "fim": "2027-08-01",
-   "cidade": "São Paulo",
-   "uf": "SP",
-   "local": "São Paulo Expo",
-   "preco": "Consulte no site oficial",
-   "gratuito": false,
-   "link": "https://www.figlobal.com/southamerica.html",
-   "organizador": "Informa Markets",
-   "potencial": "Médio",
-   "glp": "P&D e compras da indústria de alimentos",
-   "dataAprox": "Data de 2027 ainda não divulgada; costuma ocorrer em agosto."
-  },
-  {
-   "id": "embala-nordeste-2027",
-   "nome": "Embala Nordeste 2027",
-   "tipo": "Feira",
-   "segmentos": [
-    "Embalagens e gráfica",
-    "Alimentos e bebidas"
-   ],
-   "inicio": "2027-08-01",
-   "fim": "2027-08-01",
-   "cidade": "Fortaleza",
-   "uf": "CE",
-   "local": "Centro de Eventos do Ceará",
-   "preco": "Consulte no site oficial",
-   "gratuito": false,
-   "link": "https://embalane.com.br",
-   "organizador": "BMComm",
-   "potencial": "Médio",
-   "glp": "envase e embalagem de alimentos e bebidas no Norte e Nordeste",
-   "dataAprox": "Data de 2027 ainda não divulgada; costuma ocorrer em agosto."
   },
   {
    "id": "glass-south-america-2027",
