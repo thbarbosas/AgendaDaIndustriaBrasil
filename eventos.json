@@ -1,7 +1,7 @@
 {
   "meta": {
-    "atualizadoEm": "2026-11-11T07:35:00-03:00",
-    "turno": "manhã",
+    "atualizadoEm": "2026-11-11T13:35:00-03:00",
+    "turno": "tarde",
     "agenda": "Atualização automática às 7h31 e às 13h31 (horário de Brasília)",
     "observacao": "Datas e locais conforme sites oficiais, organizadores e imprensa especializada. Onde o site oficial não foi confirmado, o botão abre uma busca. O potencial de GLP é uma leitura comercial do perfil de público de cada feira. Confirme sempre antes de se programar."
   },
@@ -1424,6 +1424,27 @@
       "organizador": "Febratex Group",
       "potencial": "Alto",
       "glp": "confecções e tinturarias do Nordeste: ramas, secadores e caldeiras"
+    },
+    {
+      "id": "expocanas-2027",
+      "nome": "Expocanas 2027",
+      "tipo": "Feira",
+      "segmentos": [
+        "Bioenergia e saneamento"
+      ],
+      "inicio": "2027-03-23",
+      "fim": "2027-03-25",
+      "cidade": "Nova Alvorada do Sul",
+      "uf": "MS",
+      "local": "Parque de Exposição Multissetorial (BR-163)",
+      "preco": "Consulte o site oficial",
+      "gratuito": false,
+      "link": "https://expocanas.com/",
+      "organizador": "Sulcanas",
+      "potencial": "Médio",
+      "glp": "Fornecedores de cana e usinas de etanol do MS: GLP em secagem, refeitórios, empilhadeiras e no lugar do diesel em equipamentos de apoio.",
+      "lat": -21.4657,
+      "lon": -54.3825
     }
   ]
 }
