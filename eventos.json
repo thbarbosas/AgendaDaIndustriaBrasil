@@ -1,7 +1,7 @@
 {
   "meta": {
-    "atualizadoEm": "2026-11-09T13:33:12-03:00",
-    "turno": "tarde",
+    "atualizadoEm": "2026-11-11T07:35:00-03:00",
+    "turno": "manhã",
     "agenda": "Atualização automática às 7h31 e às 13h31 (horário de Brasília)",
     "observacao": "Datas e locais conforme sites oficiais, organizadores e imprensa especializada. Onde o site oficial não foi confirmado, o botão abre uma busca. O potencial de GLP é uma leitura comercial do perfil de público de cada feira. Confirme sempre antes de se programar."
   },
@@ -1345,6 +1345,85 @@
       "glp": "Aquecimento de água, secagem e energia em canteiros, substituindo diesel e eletricidade.",
       "inicio": "2027-04-06",
       "fim": "2027-04-09"
+    },
+    {
+      "id": "exposibram-2027",
+      "nome": "Exposibram 2027",
+      "tipo": "Feira",
+      "segmentos": [
+        "Construção e mineração",
+        "Energia e eficiência"
+      ],
+      "inicio": "2027-09-20",
+      "fim": "2027-09-23",
+      "cidade": "Belém",
+      "uf": "PA",
+      "local": "Hangar Centro de Convenções da Amazônia",
+      "preco": "Consulte no site oficial",
+      "gratuito": false,
+      "link": "https://ibram.org.br",
+      "organizador": "IBRAM",
+      "potencial": "Médio",
+      "glp": "mineração na Amazônia: troca de diesel e óleo em secagem, beneficiamento e geração nos canteiros"
+    },
+    {
+      "id": "sergipe-oil-gas-2026",
+      "nome": "Sergipe Oil & Gas 2026",
+      "tipo": "Feira",
+      "segmentos": [
+        "Energia e eficiência"
+      ],
+      "inicio": "2026-07-29",
+      "fim": "2026-07-31",
+      "cidade": "Aracaju",
+      "uf": "SE",
+      "local": "Centro de Convenções AM Malls",
+      "preco": "Inscrição gratuita para visitantes",
+      "gratuito": true,
+      "link": "https://www.sergipeoilgas.com.br",
+      "organizador": "Austral e BrainMarket",
+      "potencial": "Relacionamento",
+      "glp": "cadeia de petróleo e gás de Sergipe: parcerias e indústrias que trocam óleo e diesel"
+    },
+    {
+      "id": "sergipe-oil-gas-2027",
+      "nome": "Sergipe Oil & Gas 2027",
+      "tipo": "Feira",
+      "segmentos": [
+        "Energia e eficiência"
+      ],
+      "inicio": "2027-07-28",
+      "fim": "2027-07-30",
+      "cidade": "Aracaju",
+      "uf": "SE",
+      "local": "Centro de Convenções AM Malls",
+      "preco": "Inscrição gratuita para visitantes (abre em 1º/05/2027)",
+      "gratuito": true,
+      "link": "https://www.sergipeoilgas.com.br",
+      "organizador": "Austral e BrainMarket",
+      "potencial": "Relacionamento",
+      "glp": "cadeia de petróleo e gás de Sergipe: parcerias e indústrias que trocam óleo e diesel"
+    },
+    {
+      "id": "maquintex-2027",
+      "nome": "Maquintex 2027",
+      "tipo": "Feira",
+      "segmentos": [
+        "Têxtil, couro e calçados",
+        "Embalagens e gráfica"
+      ],
+      "inicio": "2027-09-01",
+      "fim": "2027-09-01",
+      "dataAprox": "Data de 2027 ainda não divulgada; costuma ocorrer em setembro.",
+      "cidade": "Fortaleza",
+      "uf": "CE",
+      "local": "Centro de Eventos do Ceará – Pavilhão Leste",
+      "preco": "Credenciamento pelo site oficial",
+      "gratuito": false,
+      "link": "https://www.maquintex.com.br",
+      "organizador": "Febratex Group",
+      "potencial": "Alto",
+      "glp": "confecções e tinturarias do Nordeste: ramas, secadores e caldeiras"
     }
   ]
 }
