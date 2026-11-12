@@ -1,7 +1,7 @@
 {
   "meta": {
-    "atualizadoEm": "2026-11-11T13:35:00-03:00",
-    "turno": "tarde",
+    "atualizadoEm": "2026-11-12T07:40:00-03:00",
+    "turno": "manhã",
     "agenda": "Atualização automática às 7h31 e às 13h31 (horário de Brasília)",
     "observacao": "Datas e locais conforme sites oficiais, organizadores e imprensa especializada. Onde o site oficial não foi confirmado, o botão abre uma busca. O potencial de GLP é uma leitura comercial do perfil de público de cada feira. Confirme sempre antes de se programar."
   },
@@ -1445,6 +1445,25 @@
       "glp": "Fornecedores de cana e usinas de etanol do MS: GLP em secagem, refeitórios, empilhadeiras e no lugar do diesel em equipamentos de apoio.",
       "lat": -21.4657,
       "lon": -54.3825
+    },
+    {
+      "id": "tubotech-2027",
+      "nome": "TUBOTECH 2027 – Feira Internacional de Tubos, Válvulas, Bombas, Conexões e Componentes",
+      "tipo": "Feira",
+      "segmentos": [
+        "Metalmecânica e fundição"
+      ],
+      "inicio": "2027-10-27",
+      "fim": "2027-10-29",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "local": "São Paulo Expo",
+      "preco": "Consulte no site oficial",
+      "gratuito": false,
+      "link": "https://tubotech.com.br/",
+      "organizador": "Fiera Milano Brasil",
+      "potencial": "Médio",
+      "glp": "fabricantes de tubos e conexões: tratamento térmico, solda, corte e empilhadeiras"
     }
   ]
 }
