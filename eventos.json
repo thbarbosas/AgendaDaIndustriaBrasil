@@ -1,7 +1,7 @@
 {
   "meta": {
-    "atualizadoEm": "2026-11-12T07:40:00-03:00",
-    "turno": "manhã",
+    "atualizadoEm": "2026-11-12T13:33:00-03:00",
+    "turno": "tarde",
     "agenda": "Atualização automática às 7h31 e às 13h31 (horário de Brasília)",
     "observacao": "Datas e locais conforme sites oficiais, organizadores e imprensa especializada. Onde o site oficial não foi confirmado, o botão abre uma busca. O potencial de GLP é uma leitura comercial do perfil de público de cada feira. Confirme sempre antes de se programar."
   },
@@ -1464,6 +1464,46 @@
       "organizador": "Fiera Milano Brasil",
       "potencial": "Médio",
       "glp": "fabricantes de tubos e conexões: tratamento térmico, solda, corte e empilhadeiras"
+    },
+    {
+      "id": "hfn-hotel-food-nordeste-2026",
+      "nome": "HFN – Hotel Food Nordeste 2026",
+      "tipo": "Feira",
+      "segmentos": [
+        "Alimentos e bebidas"
+      ],
+      "inicio": "2026-11-04",
+      "fim": "2026-11-06",
+      "cidade": "Olinda",
+      "uf": "PE",
+      "local": "Pernambuco Centro de Convenções",
+      "preco": "Credenciamento pelo site oficial",
+      "gratuito": false,
+      "link": "https://www.hfne.com.br",
+      "organizador": "Insight Feiras e Negócios, com ABIH-PE e Abrasel-PE",
+      "potencial": "Médio",
+      "glp": "hotéis, restaurantes, padarias e cozinhas industriais: cocção, fornos e aquecimento de água a GLP",
+      "lat": -8.0089,
+      "lon": -34.8553
+    },
+    {
+      "id": "fispal-food-service-2027",
+      "nome": "Fispal Food Service 2027",
+      "tipo": "Feira",
+      "segmentos": [
+        "Alimentos e bebidas"
+      ],
+      "inicio": "2027-05-18",
+      "fim": "2027-05-21",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "local": "Distrito Anhembi",
+      "preco": "Consulte no site oficial",
+      "gratuito": false,
+      "link": "https://www.fispalfoodservice.com.br",
+      "organizador": "Informa Markets",
+      "potencial": "Médio",
+      "glp": "restaurantes, padarias, sorveterias e cozinhas industriais: fornos, chapas e aquecimento de água a GLP"
     }
   ]
 }
