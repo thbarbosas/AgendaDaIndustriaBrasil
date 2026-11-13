@@ -1,7 +1,7 @@
 {
   "meta": {
-    "atualizadoEm": "2026-11-13T07:44:00-03:00",
-    "turno": "manhã",
+    "atualizadoEm": "2026-11-13T13:42:01-03:00",
+    "turno": "tarde",
     "agenda": "Atualização automática às 7h31 e às 13h31 (horário de Brasília)",
     "observacao": "Datas e locais conforme sites oficiais, organizadores e imprensa especializada. Onde o site oficial não foi confirmado, o botão abre uma busca. O potencial de GLP é uma leitura comercial do perfil de público de cada feira. Confirme sempre antes de se programar."
   },
@@ -1562,6 +1562,25 @@
       "organizador": "Suframa e Instituto Somar Amazônia",
       "potencial": "Relacionamento",
       "glp": "indústrias do Polo Industrial de Manaus: contatos para caldeiras, fornos e empilhadeiras"
+    },
+    {
+      "id": "multimodal-nordeste-2026",
+      "nome": "Multimodal Nordeste 2026",
+      "tipo": "Feira",
+      "segmentos": [
+        "Logística e empilhadeiras"
+      ],
+      "inicio": "2026-08-04",
+      "fim": "2026-08-06",
+      "cidade": "Recife",
+      "uf": "PE",
+      "local": "Recife Expo Center",
+      "preco": "Credenciamento pelo site oficial",
+      "gratuito": false,
+      "link": "https://www.multimodalnordeste.com.br/",
+      "organizador": "Insight Feiras & Negócios",
+      "potencial": "Alto",
+      "glp": "armazéns e operadores logísticos do Norte/Nordeste: empilhadeiras a GLP e abastecimento de frotas internas"
     }
   ]
 }
