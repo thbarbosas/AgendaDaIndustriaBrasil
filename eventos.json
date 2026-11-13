@@ -1,7 +1,7 @@
 {
   "meta": {
-    "atualizadoEm": "2026-11-12T13:33:00-03:00",
-    "turno": "tarde",
+    "atualizadoEm": "2026-11-13T07:44:00-03:00",
+    "turno": "manhã",
     "agenda": "Atualização automática às 7h31 e às 13h31 (horário de Brasília)",
     "observacao": "Datas e locais conforme sites oficiais, organizadores e imprensa especializada. Onde o site oficial não foi confirmado, o botão abre uma busca. O potencial de GLP é uma leitura comercial do perfil de público de cada feira. Confirme sempre antes de se programar."
   },
@@ -1504,6 +1504,64 @@
       "organizador": "Informa Markets",
       "potencial": "Médio",
       "glp": "restaurantes, padarias, sorveterias e cozinhas industriais: fornos, chapas e aquecimento de água a GLP"
+    },
+    {
+      "id": "intra-log-expo-2026",
+      "nome": "INTRA-LOG Expo South America 2026",
+      "tipo": "Feira",
+      "segmentos": [
+        "Logística e empilhadeiras",
+        "Embalagens e gráfica"
+      ],
+      "inicio": "2026-09-15",
+      "fim": "2026-09-17",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "local": "Expo Center Norte – Pavilhão Azul",
+      "preco": "Consulte no site oficial",
+      "gratuito": false,
+      "link": "https://intralogexpo.com.br/",
+      "organizador": "Interlink Exhibitions",
+      "potencial": "Alto",
+      "glp": "intralogística e armazéns: empilhadeiras a GLP e abastecimento de frotas internas"
+    },
+    {
+      "id": "transpoamazonia-2027",
+      "nome": "TranspoAmazônia 2027",
+      "tipo": "Feira",
+      "segmentos": [
+        "Logística e empilhadeiras"
+      ],
+      "inicio": "2027-05-19",
+      "fim": "2027-05-21",
+      "cidade": "Manaus",
+      "uf": "AM",
+      "local": "Centro de Convenções Vasco Vasques",
+      "preco": "Consulte no site oficial",
+      "gratuito": false,
+      "link": "https://transpoamazonia.com.br",
+      "organizador": "Fetramaz",
+      "potencial": "Médio",
+      "glp": "operadores logísticos, estaleiros e armazéns da Zona Franca: empilhadeiras a GLP"
+    },
+    {
+      "id": "expopim-4-0-2026",
+      "nome": "ExpoPIM 4.0 2026",
+      "tipo": "Feira",
+      "segmentos": [
+        "Multissetorial"
+      ],
+      "inicio": "2026-03-18",
+      "fim": "2026-03-20",
+      "cidade": "Manaus",
+      "uf": "AM",
+      "local": "Centro de Convenções Vasco Vasques",
+      "preco": "Entrada gratuita",
+      "gratuito": true,
+      "link": "https://www.google.com/search?q=ExpoPIM+4.0+2026+Suframa+Manaus",
+      "organizador": "Suframa e Instituto Somar Amazônia",
+      "potencial": "Relacionamento",
+      "glp": "indústrias do Polo Industrial de Manaus: contatos para caldeiras, fornos e empilhadeiras"
     }
   ]
 }
