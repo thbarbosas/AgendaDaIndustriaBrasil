@@ -1,7 +1,7 @@
 {
   "meta": {
-    "atualizadoEm": "2026-11-14T07:32:19-03:00",
-    "turno": "manhã",
+    "atualizadoEm": "2026-11-14T13:33:02-03:00",
+    "turno": "tarde",
     "agenda": "Atualização automática às 7h31 e às 13h31 (horário de Brasília)",
     "observacao": "Datas e locais conforme sites oficiais, organizadores e imprensa especializada. Onde o site oficial não foi confirmado, o botão abre uma busca. O potencial de GLP é uma leitura comercial do perfil de público de cada feira. Confirme sempre antes de se programar."
   },
@@ -88,6 +88,44 @@
       "glp": "frigoríficos e laticínios: caldeiras, escaldagem, defumação e empilhadeiras",
       "lat": -27.1,
       "lon": -52.62
+    },
+    {
+      "id": "expopim-4-0-2026",
+      "nome": "ExpoPIM 4.0 2026",
+      "tipo": "Feira",
+      "segmentos": [
+        "Multissetorial"
+      ],
+      "inicio": "2026-03-18",
+      "fim": "2026-03-20",
+      "cidade": "Manaus",
+      "uf": "AM",
+      "local": "Centro de Convenções Vasco Vasques",
+      "preco": "Entrada gratuita",
+      "gratuito": true,
+      "link": "https://www.google.com/search?q=ExpoPIM+4.0+2026+Suframa+Manaus",
+      "organizador": "Suframa e Instituto Somar Amazônia",
+      "potencial": "Relacionamento",
+      "glp": "indústrias do Polo Industrial de Manaus: contatos para caldeiras, fornos e empilhadeiras"
+    },
+    {
+      "id": "feicon-2026",
+      "nome": "FEICON – Salão Internacional da Construção 2026",
+      "tipo": "Feira",
+      "segmentos": [
+        "Construção e mineração"
+      ],
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "local": "São Paulo Expo",
+      "preco": "Credenciamento de visitante profissional no site",
+      "gratuito": false,
+      "link": "https://www.feicon.com.br",
+      "organizador": "RX Brasil",
+      "potencial": "Médio",
+      "glp": "Aquecimento de água, secagem e energia em canteiros, substituindo diesel e eletricidade.",
+      "inicio": "2026-04-07",
+      "fim": "2026-04-10"
     },
     {
       "id": "intermodal-south-america-2026",
@@ -323,6 +361,25 @@
       "glp": "indústrias químicas: aquecimento de reatores, caldeiras e estufas"
     },
     {
+      "id": "sergipe-oil-gas-2026",
+      "nome": "Sergipe Oil & Gas 2026",
+      "tipo": "Feira",
+      "segmentos": [
+        "Energia e eficiência"
+      ],
+      "inicio": "2026-07-29",
+      "fim": "2026-07-31",
+      "cidade": "Aracaju",
+      "uf": "SE",
+      "local": "Centro de Convenções AM Malls",
+      "preco": "Inscrição gratuita para visitantes",
+      "gratuito": true,
+      "link": "https://www.sergipeoilgas.com.br",
+      "organizador": "Austral e BrainMarket",
+      "potencial": "Relacionamento",
+      "glp": "cadeia de petróleo e gás de Sergipe: parcerias e indústrias que trocam óleo e diesel"
+    },
+    {
       "id": "embala-nordeste-2026",
       "nome": "Embala Nordeste 2026",
       "tipo": "Feira",
@@ -381,6 +438,25 @@
       "organizador": "Milanez & Milaneze e CDMec",
       "potencial": "Alto",
       "glp": "caldeiraria, tratamento térmico, corte e solda na cadeia metalmecânica capixaba"
+    },
+    {
+      "id": "multimodal-nordeste-2026",
+      "nome": "Multimodal Nordeste 2026",
+      "tipo": "Feira",
+      "segmentos": [
+        "Logística e empilhadeiras"
+      ],
+      "inicio": "2026-08-04",
+      "fim": "2026-08-06",
+      "cidade": "Recife",
+      "uf": "PE",
+      "local": "Recife Expo Center",
+      "preco": "Credenciamento pelo site oficial",
+      "gratuito": false,
+      "link": "https://www.multimodalnordeste.com.br/",
+      "organizador": "Insight Feiras & Negócios",
+      "potencial": "Alto",
+      "glp": "armazéns e operadores logísticos do Norte/Nordeste: empilhadeiras a GLP e abastecimento de frotas internas"
     },
     {
       "id": "siavs-2026",
@@ -538,6 +614,26 @@
       "glp": "galvanoplastia e pintura industrial: estufas de cura e aquecimento de banhos"
     },
     {
+      "id": "intra-log-expo-2026",
+      "nome": "INTRA-LOG Expo South America 2026",
+      "tipo": "Feira",
+      "segmentos": [
+        "Logística e empilhadeiras",
+        "Embalagens e gráfica"
+      ],
+      "inicio": "2026-09-15",
+      "fim": "2026-09-17",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "local": "Expo Center Norte – Pavilhão Azul",
+      "preco": "Consulte no site oficial",
+      "gratuito": false,
+      "link": "https://intralogexpo.com.br/",
+      "organizador": "Interlink Exhibitions",
+      "potencial": "Alto",
+      "glp": "intralogística e armazéns: empilhadeiras a GLP e abastecimento de frotas internas"
+    },
+    {
       "id": "rog-e-2026",
       "nome": "ROG.e 2026",
       "tipo": "Congresso",
@@ -597,6 +693,27 @@
       "glp": "polo metalmecânico da Serra Gaúcha: tratamento térmico, pintura e fundição"
     },
     {
+      "id": "avesui-2026",
+      "nome": "AveSui América Latina 2026",
+      "tipo": "Feira",
+      "segmentos": [
+        "Alimentos e bebidas"
+      ],
+      "inicio": "2026-10-27",
+      "fim": "2026-10-29",
+      "cidade": "Cascavel",
+      "uf": "PR",
+      "local": "Centro de Convenções e Eventos de Cascavel",
+      "preco": "Consulte o organizador",
+      "gratuito": false,
+      "link": "https://avesui.com.br/",
+      "organizador": "Gessulli Agribusiness",
+      "potencial": "Alto",
+      "glp": "aviários e granjas de suínos: aquecimento de galpões, campânulas e fornalhas; frigoríficos: caldeiras e empilhadeiras",
+      "lat": -24.96,
+      "lon": -53.46
+    },
+    {
       "id": "expoind-goias-2026",
       "nome": "Expoind 2026 – Feira de Negócios e Soluções para a Indústria Goiana",
       "tipo": "Feira",
@@ -636,6 +753,27 @@
       "organizador": "Sindpan-CE e Rede Pão",
       "potencial": "Alto",
       "glp": "padarias e indústrias de panificação: fornos de lastro e turbo a GLP"
+    },
+    {
+      "id": "hfn-hotel-food-nordeste-2026",
+      "nome": "HFN – Hotel Food Nordeste 2026",
+      "tipo": "Feira",
+      "segmentos": [
+        "Alimentos e bebidas"
+      ],
+      "inicio": "2026-11-04",
+      "fim": "2026-11-06",
+      "cidade": "Olinda",
+      "uf": "PE",
+      "local": "Pernambuco Centro de Convenções",
+      "preco": "Credenciamento pelo site oficial",
+      "gratuito": false,
+      "link": "https://www.hfne.com.br",
+      "organizador": "Insight Feiras e Negócios, com ABIH-PE e Abrasel-PE",
+      "potencial": "Médio",
+      "glp": "hotéis, restaurantes, padarias e cozinhas industriais: cocção, fornos e aquecimento de água a GLP",
+      "lat": -8.0089,
+      "lon": -34.8553
     },
     {
       "id": "fenatran-2026",
@@ -694,6 +832,25 @@
       "organizador": "Ápice Educação Executiva",
       "potencial": "Relacionamento",
       "glp": "Gestores de produção e manutenção de indústrias do norte catarinense: fornos, estufas e empilhadeiras."
+    },
+    {
+      "id": "fenacam-2026",
+      "nome": "FENACAM 2026 – Feira Nacional do Camarão",
+      "tipo": "Feira",
+      "segmentos": [
+        "Alimentos e bebidas"
+      ],
+      "inicio": "2026-11-17",
+      "fim": "2026-11-21",
+      "cidade": "Natal",
+      "uf": "RN",
+      "local": "Centro de Convenções de Natal",
+      "preco": "Simpósios a partir de R$ 600 (não associado R$ 700); consulte a feira",
+      "gratuito": false,
+      "link": "http://fenacam.com.br/",
+      "organizador": "ABCC – Associação Brasileira de Criadores de Camarão",
+      "potencial": "Médio",
+      "glp": "beneficiadoras de pescado e camarão: cozimento, caldeiras e secagem de ração a GLP"
     },
     {
       "id": "expo-revestir-2027",
@@ -797,6 +954,27 @@
       "glp": "transformadores de plástico: estufas, secadores de resina e empilhadeiras"
     },
     {
+      "id": "expocanas-2027",
+      "nome": "Expocanas 2027",
+      "tipo": "Feira",
+      "segmentos": [
+        "Bioenergia e saneamento"
+      ],
+      "inicio": "2027-03-23",
+      "fim": "2027-03-25",
+      "cidade": "Nova Alvorada do Sul",
+      "uf": "MS",
+      "local": "Parque de Exposição Multissetorial (BR-163)",
+      "preco": "Consulte o site oficial",
+      "gratuito": false,
+      "link": "https://expocanas.com/",
+      "organizador": "Sulcanas",
+      "potencial": "Médio",
+      "glp": "Fornecedores de cana e usinas de etanol do MS: GLP em secagem, refeitórios, empilhadeiras e no lugar do diesel em equipamentos de apoio.",
+      "lat": -21.4657,
+      "lon": -54.3825
+    },
+    {
       "id": "tecnotextil-brasil-2027",
       "nome": "Tecnotêxtil Brasil 2027",
       "tipo": "Feira",
@@ -839,6 +1017,25 @@
       "glp": "fabricantes de alimentos e bebidas com fornos, caldeiras e pasteurização"
     },
     {
+      "id": "feicon-2027",
+      "nome": "FEICON – Salão Internacional da Construção 2027",
+      "tipo": "Feira",
+      "segmentos": [
+        "Construção e mineração"
+      ],
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "local": "São Paulo Expo",
+      "preco": "Credenciamento de visitante profissional no site",
+      "gratuito": false,
+      "link": "https://www.feicon.com.br",
+      "organizador": "RX Brasil",
+      "potencial": "Médio",
+      "glp": "Aquecimento de água, secagem e energia em canteiros, substituindo diesel e eletricidade.",
+      "inicio": "2027-04-06",
+      "fim": "2027-04-09"
+    },
+    {
       "id": "expomafe-2027",
       "nome": "EXPOMAFE 2027",
       "tipo": "Feira",
@@ -857,6 +1054,44 @@
       "organizador": "ABIMAQ e Informa Markets",
       "potencial": "Alto",
       "glp": "máquinas-ferramenta, pintura e tratamento de superfície: estufas e fornos"
+    },
+    {
+      "id": "fispal-food-service-2027",
+      "nome": "Fispal Food Service 2027",
+      "tipo": "Feira",
+      "segmentos": [
+        "Alimentos e bebidas"
+      ],
+      "inicio": "2027-05-18",
+      "fim": "2027-05-21",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "local": "Distrito Anhembi",
+      "preco": "Consulte no site oficial",
+      "gratuito": false,
+      "link": "https://www.fispalfoodservice.com.br",
+      "organizador": "Informa Markets",
+      "potencial": "Médio",
+      "glp": "restaurantes, padarias, sorveterias e cozinhas industriais: fornos, chapas e aquecimento de água a GLP"
+    },
+    {
+      "id": "transpoamazonia-2027",
+      "nome": "TranspoAmazônia 2027",
+      "tipo": "Feira",
+      "segmentos": [
+        "Logística e empilhadeiras"
+      ],
+      "inicio": "2027-05-19",
+      "fim": "2027-05-21",
+      "cidade": "Manaus",
+      "uf": "AM",
+      "local": "Centro de Convenções Vasco Vasques",
+      "preco": "Consulte no site oficial",
+      "gratuito": false,
+      "link": "https://transpoamazonia.com.br",
+      "organizador": "Fetramaz",
+      "potencial": "Médio",
+      "glp": "operadores logísticos, estaleiros e armazéns da Zona Franca: empilhadeiras a GLP"
     },
     {
       "id": "bahia-oil-gas-energy-2027",
@@ -878,6 +1113,25 @@
       "glp": "cadeia de petróleo, gás e energia do Norte-Nordeste: parcerias e indústrias que trocam óleo e diesel"
     },
     {
+      "id": "brasmin-2027",
+      "nome": "Brasmin 2027 – Feira da Indústria da Mineração",
+      "tipo": "Feira",
+      "segmentos": [
+        "Construção e mineração"
+      ],
+      "inicio": "2027-06-15",
+      "fim": "2027-06-17",
+      "cidade": "Goiânia",
+      "uf": "GO",
+      "local": "Centro de Convenções PUC Goiás",
+      "preco": "Credenciamento gratuito para visitantes",
+      "gratuito": true,
+      "link": "https://brasmin.com.br",
+      "organizador": "Proma Feiras",
+      "potencial": "Médio",
+      "glp": "mineradoras do Centro-Oeste: secagem de minério, frotas e troca de diesel"
+    },
+    {
       "id": "index-2027",
       "nome": "INDEX 2027",
       "tipo": "Feira",
@@ -896,25 +1150,6 @@
       "organizador": "FIEB e Sebrae Bahia",
       "potencial": "Relacionamento",
       "glp": "maior salão industrial do Norte e Nordeste; pequenas e médias indústrias"
-    },
-    {
-      "id": "brasmin-2027",
-      "nome": "Brasmin 2027 – Feira da Indústria da Mineração",
-      "tipo": "Feira",
-      "segmentos": [
-        "Construção e mineração"
-      ],
-      "inicio": "2027-06-15",
-      "fim": "2027-06-17",
-      "cidade": "Goiânia",
-      "uf": "GO",
-      "local": "Centro de Convenções PUC Goiás",
-      "preco": "Credenciamento gratuito para visitantes",
-      "gratuito": true,
-      "link": "https://brasmin.com.br",
-      "organizador": "Proma Feiras",
-      "potencial": "Médio",
-      "glp": "mineradoras do Centro-Oeste: secagem de minério, frotas e troca de diesel"
     },
     {
       "id": "fispal-tecnologia-2027",
@@ -954,6 +1189,44 @@
       "organizador": "Messe Brasil",
       "potencial": "Alto",
       "glp": "metalmecânica do Sul: corte, solda e tratamento térmico"
+    },
+    {
+      "id": "fipan-2027",
+      "nome": "FIPAN 2027 – Feira Internacional de Panificação, Confeitaria e Food Business",
+      "tipo": "Feira",
+      "segmentos": [
+        "Alimentos e bebidas"
+      ],
+      "inicio": "2027-07-20",
+      "fim": "2027-07-23",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "local": "Expo Center Norte",
+      "preco": "Consulte o organizador",
+      "gratuito": false,
+      "link": "https://fipan.com.br/pt_br/",
+      "organizador": "Sampapão / Sindipan-SP",
+      "potencial": "Alto",
+      "glp": "padarias e indústrias de panificação: fornos a GLP, fritadeiras e caldeiras"
+    },
+    {
+      "id": "sergipe-oil-gas-2027",
+      "nome": "Sergipe Oil & Gas 2027",
+      "tipo": "Feira",
+      "segmentos": [
+        "Energia e eficiência"
+      ],
+      "inicio": "2027-07-28",
+      "fim": "2027-07-30",
+      "cidade": "Aracaju",
+      "uf": "SE",
+      "local": "Centro de Convenções AM Malls",
+      "preco": "Inscrição gratuita para visitantes (abre em 1º/05/2027)",
+      "gratuito": true,
+      "link": "https://www.sergipeoilgas.com.br",
+      "organizador": "Austral e BrainMarket",
+      "potencial": "Relacionamento",
+      "glp": "cadeia de petróleo e gás de Sergipe: parcerias e indústrias que trocam óleo e diesel"
     },
     {
       "id": "embala-nordeste-2027",
@@ -1114,6 +1387,27 @@
       "glp": "projetos híbridos de energia: GLP como fonte térmica e de backup ao lado do solar"
     },
     {
+      "id": "maquintex-2027",
+      "nome": "Maquintex 2027",
+      "tipo": "Feira",
+      "segmentos": [
+        "Têxtil, couro e calçados",
+        "Embalagens e gráfica"
+      ],
+      "inicio": "2027-09-01",
+      "fim": "2027-09-01",
+      "dataAprox": "Data de 2027 ainda não divulgada; costuma ocorrer em setembro.",
+      "cidade": "Fortaleza",
+      "uf": "CE",
+      "local": "Centro de Eventos do Ceará – Pavilhão Leste",
+      "preco": "Credenciamento pelo site oficial",
+      "gratuito": false,
+      "link": "https://www.maquintex.com.br",
+      "organizador": "Febratex Group",
+      "potencial": "Alto",
+      "glp": "confecções e tinturarias do Nordeste: ramas, secadores e caldeiras"
+    },
+    {
       "id": "glass-south-america-2027",
       "nome": "Glass South America 2027",
       "tipo": "Feira",
@@ -1169,6 +1463,26 @@
       "organizador": "RX Brasil e Abinee",
       "potencial": "Relacionamento",
       "glp": "eficiência energética e geração; GLP como energia de backup e transição"
+    },
+    {
+      "id": "exposibram-2027",
+      "nome": "Exposibram 2027",
+      "tipo": "Feira",
+      "segmentos": [
+        "Construção e mineração",
+        "Energia e eficiência"
+      ],
+      "inicio": "2027-09-20",
+      "fim": "2027-09-23",
+      "cidade": "Belém",
+      "uf": "PA",
+      "local": "Hangar Centro de Convenções da Amazônia",
+      "preco": "Consulte no site oficial",
+      "gratuito": false,
+      "link": "https://ibram.org.br",
+      "organizador": "IBRAM",
+      "potencial": "Médio",
+      "glp": "mineração na Amazônia: troca de diesel e óleo em secagem, beneficiamento e geração nos canteiros"
     },
     {
       "id": "metalurgia-2027",
@@ -1251,202 +1565,6 @@
       "glp": "estações de tratamento: secagem de lodo e energia de apoio"
     },
     {
-      "id": "m-t-expo-2027",
-      "nome": "M&T Expo 2027",
-      "tipo": "Feira",
-      "segmentos": [
-        "Construção e mineração",
-        "Logística e empilhadeiras"
-      ],
-      "inicio": "2027-11-16",
-      "fim": "2027-11-19",
-      "cidade": "São Paulo",
-      "uf": "SP",
-      "local": "São Paulo Expo",
-      "preco": "Consulte no site oficial",
-      "gratuito": false,
-      "link": "https://www.google.com/search?q=M%26T+Expo+2027",
-      "organizador": "Sobratema",
-      "potencial": "Médio",
-      "glp": "construtoras e locadoras: aquecimento em canteiros, asfalto e equipamentos"
-    },
-    {
-      "id": "fenacam-2026",
-      "nome": "FENACAM 2026 – Feira Nacional do Camarão",
-      "tipo": "Feira",
-      "segmentos": [
-        "Alimentos e bebidas"
-      ],
-      "inicio": "2026-11-17",
-      "fim": "2026-11-21",
-      "cidade": "Natal",
-      "uf": "RN",
-      "local": "Centro de Convenções de Natal",
-      "preco": "Simpósios a partir de R$ 600 (não associado R$ 700); consulte a feira",
-      "gratuito": false,
-      "link": "http://fenacam.com.br/",
-      "organizador": "ABCC – Associação Brasileira de Criadores de Camarão",
-      "potencial": "Médio",
-      "glp": "beneficiadoras de pescado e camarão: cozimento, caldeiras e secagem de ração a GLP"
-    },
-    {
-      "id": "fipan-2027",
-      "nome": "FIPAN 2027 – Feira Internacional de Panificação, Confeitaria e Food Business",
-      "tipo": "Feira",
-      "segmentos": [
-        "Alimentos e bebidas"
-      ],
-      "inicio": "2027-07-20",
-      "fim": "2027-07-23",
-      "cidade": "São Paulo",
-      "uf": "SP",
-      "local": "Expo Center Norte",
-      "preco": "Consulte o organizador",
-      "gratuito": false,
-      "link": "https://fipan.com.br/pt_br/",
-      "organizador": "Sampapão / Sindipan-SP",
-      "potencial": "Alto",
-      "glp": "padarias e indústrias de panificação: fornos a GLP, fritadeiras e caldeiras"
-    },
-    {
-      "id": "feicon-2026",
-      "nome": "FEICON – Salão Internacional da Construção 2026",
-      "tipo": "Feira",
-      "segmentos": [
-        "Construção e mineração"
-      ],
-      "cidade": "São Paulo",
-      "uf": "SP",
-      "local": "São Paulo Expo",
-      "preco": "Credenciamento de visitante profissional no site",
-      "gratuito": false,
-      "link": "https://www.feicon.com.br",
-      "organizador": "RX Brasil",
-      "potencial": "Médio",
-      "glp": "Aquecimento de água, secagem e energia em canteiros, substituindo diesel e eletricidade.",
-      "inicio": "2026-04-07",
-      "fim": "2026-04-10"
-    },
-    {
-      "id": "feicon-2027",
-      "nome": "FEICON – Salão Internacional da Construção 2027",
-      "tipo": "Feira",
-      "segmentos": [
-        "Construção e mineração"
-      ],
-      "cidade": "São Paulo",
-      "uf": "SP",
-      "local": "São Paulo Expo",
-      "preco": "Credenciamento de visitante profissional no site",
-      "gratuito": false,
-      "link": "https://www.feicon.com.br",
-      "organizador": "RX Brasil",
-      "potencial": "Médio",
-      "glp": "Aquecimento de água, secagem e energia em canteiros, substituindo diesel e eletricidade.",
-      "inicio": "2027-04-06",
-      "fim": "2027-04-09"
-    },
-    {
-      "id": "exposibram-2027",
-      "nome": "Exposibram 2027",
-      "tipo": "Feira",
-      "segmentos": [
-        "Construção e mineração",
-        "Energia e eficiência"
-      ],
-      "inicio": "2027-09-20",
-      "fim": "2027-09-23",
-      "cidade": "Belém",
-      "uf": "PA",
-      "local": "Hangar Centro de Convenções da Amazônia",
-      "preco": "Consulte no site oficial",
-      "gratuito": false,
-      "link": "https://ibram.org.br",
-      "organizador": "IBRAM",
-      "potencial": "Médio",
-      "glp": "mineração na Amazônia: troca de diesel e óleo em secagem, beneficiamento e geração nos canteiros"
-    },
-    {
-      "id": "sergipe-oil-gas-2026",
-      "nome": "Sergipe Oil & Gas 2026",
-      "tipo": "Feira",
-      "segmentos": [
-        "Energia e eficiência"
-      ],
-      "inicio": "2026-07-29",
-      "fim": "2026-07-31",
-      "cidade": "Aracaju",
-      "uf": "SE",
-      "local": "Centro de Convenções AM Malls",
-      "preco": "Inscrição gratuita para visitantes",
-      "gratuito": true,
-      "link": "https://www.sergipeoilgas.com.br",
-      "organizador": "Austral e BrainMarket",
-      "potencial": "Relacionamento",
-      "glp": "cadeia de petróleo e gás de Sergipe: parcerias e indústrias que trocam óleo e diesel"
-    },
-    {
-      "id": "sergipe-oil-gas-2027",
-      "nome": "Sergipe Oil & Gas 2027",
-      "tipo": "Feira",
-      "segmentos": [
-        "Energia e eficiência"
-      ],
-      "inicio": "2027-07-28",
-      "fim": "2027-07-30",
-      "cidade": "Aracaju",
-      "uf": "SE",
-      "local": "Centro de Convenções AM Malls",
-      "preco": "Inscrição gratuita para visitantes (abre em 1º/05/2027)",
-      "gratuito": true,
-      "link": "https://www.sergipeoilgas.com.br",
-      "organizador": "Austral e BrainMarket",
-      "potencial": "Relacionamento",
-      "glp": "cadeia de petróleo e gás de Sergipe: parcerias e indústrias que trocam óleo e diesel"
-    },
-    {
-      "id": "maquintex-2027",
-      "nome": "Maquintex 2027",
-      "tipo": "Feira",
-      "segmentos": [
-        "Têxtil, couro e calçados",
-        "Embalagens e gráfica"
-      ],
-      "inicio": "2027-09-01",
-      "fim": "2027-09-01",
-      "dataAprox": "Data de 2027 ainda não divulgada; costuma ocorrer em setembro.",
-      "cidade": "Fortaleza",
-      "uf": "CE",
-      "local": "Centro de Eventos do Ceará – Pavilhão Leste",
-      "preco": "Credenciamento pelo site oficial",
-      "gratuito": false,
-      "link": "https://www.maquintex.com.br",
-      "organizador": "Febratex Group",
-      "potencial": "Alto",
-      "glp": "confecções e tinturarias do Nordeste: ramas, secadores e caldeiras"
-    },
-    {
-      "id": "expocanas-2027",
-      "nome": "Expocanas 2027",
-      "tipo": "Feira",
-      "segmentos": [
-        "Bioenergia e saneamento"
-      ],
-      "inicio": "2027-03-23",
-      "fim": "2027-03-25",
-      "cidade": "Nova Alvorada do Sul",
-      "uf": "MS",
-      "local": "Parque de Exposição Multissetorial (BR-163)",
-      "preco": "Consulte o site oficial",
-      "gratuito": false,
-      "link": "https://expocanas.com/",
-      "organizador": "Sulcanas",
-      "potencial": "Médio",
-      "glp": "Fornecedores de cana e usinas de etanol do MS: GLP em secagem, refeitórios, empilhadeiras e no lugar do diesel em equipamentos de apoio.",
-      "lat": -21.4657,
-      "lon": -54.3825
-    },
-    {
       "id": "tubotech-2027",
       "nome": "TUBOTECH 2027 – Feira Internacional de Tubos, Válvulas, Bombas, Conexões e Componentes",
       "tipo": "Feira",
@@ -1466,121 +1584,24 @@
       "glp": "fabricantes de tubos e conexões: tratamento térmico, solda, corte e empilhadeiras"
     },
     {
-      "id": "hfn-hotel-food-nordeste-2026",
-      "nome": "HFN – Hotel Food Nordeste 2026",
+      "id": "m-t-expo-2027",
+      "nome": "M&T Expo 2027",
       "tipo": "Feira",
       "segmentos": [
-        "Alimentos e bebidas"
-      ],
-      "inicio": "2026-11-04",
-      "fim": "2026-11-06",
-      "cidade": "Olinda",
-      "uf": "PE",
-      "local": "Pernambuco Centro de Convenções",
-      "preco": "Credenciamento pelo site oficial",
-      "gratuito": false,
-      "link": "https://www.hfne.com.br",
-      "organizador": "Insight Feiras e Negócios, com ABIH-PE e Abrasel-PE",
-      "potencial": "Médio",
-      "glp": "hotéis, restaurantes, padarias e cozinhas industriais: cocção, fornos e aquecimento de água a GLP",
-      "lat": -8.0089,
-      "lon": -34.8553
-    },
-    {
-      "id": "fispal-food-service-2027",
-      "nome": "Fispal Food Service 2027",
-      "tipo": "Feira",
-      "segmentos": [
-        "Alimentos e bebidas"
-      ],
-      "inicio": "2027-05-18",
-      "fim": "2027-05-21",
-      "cidade": "São Paulo",
-      "uf": "SP",
-      "local": "Distrito Anhembi",
-      "preco": "Consulte no site oficial",
-      "gratuito": false,
-      "link": "https://www.fispalfoodservice.com.br",
-      "organizador": "Informa Markets",
-      "potencial": "Médio",
-      "glp": "restaurantes, padarias, sorveterias e cozinhas industriais: fornos, chapas e aquecimento de água a GLP"
-    },
-    {
-      "id": "intra-log-expo-2026",
-      "nome": "INTRA-LOG Expo South America 2026",
-      "tipo": "Feira",
-      "segmentos": [
-        "Logística e empilhadeiras",
-        "Embalagens e gráfica"
-      ],
-      "inicio": "2026-09-15",
-      "fim": "2026-09-17",
-      "cidade": "São Paulo",
-      "uf": "SP",
-      "local": "Expo Center Norte – Pavilhão Azul",
-      "preco": "Consulte no site oficial",
-      "gratuito": false,
-      "link": "https://intralogexpo.com.br/",
-      "organizador": "Interlink Exhibitions",
-      "potencial": "Alto",
-      "glp": "intralogística e armazéns: empilhadeiras a GLP e abastecimento de frotas internas"
-    },
-    {
-      "id": "transpoamazonia-2027",
-      "nome": "TranspoAmazônia 2027",
-      "tipo": "Feira",
-      "segmentos": [
+        "Construção e mineração",
         "Logística e empilhadeiras"
       ],
-      "inicio": "2027-05-19",
-      "fim": "2027-05-21",
-      "cidade": "Manaus",
-      "uf": "AM",
-      "local": "Centro de Convenções Vasco Vasques",
+      "inicio": "2027-11-16",
+      "fim": "2027-11-19",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "local": "São Paulo Expo",
       "preco": "Consulte no site oficial",
       "gratuito": false,
-      "link": "https://transpoamazonia.com.br",
-      "organizador": "Fetramaz",
+      "link": "https://www.google.com/search?q=M%26T+Expo+2027",
+      "organizador": "Sobratema",
       "potencial": "Médio",
-      "glp": "operadores logísticos, estaleiros e armazéns da Zona Franca: empilhadeiras a GLP"
-    },
-    {
-      "id": "expopim-4-0-2026",
-      "nome": "ExpoPIM 4.0 2026",
-      "tipo": "Feira",
-      "segmentos": [
-        "Multissetorial"
-      ],
-      "inicio": "2026-03-18",
-      "fim": "2026-03-20",
-      "cidade": "Manaus",
-      "uf": "AM",
-      "local": "Centro de Convenções Vasco Vasques",
-      "preco": "Entrada gratuita",
-      "gratuito": true,
-      "link": "https://www.google.com/search?q=ExpoPIM+4.0+2026+Suframa+Manaus",
-      "organizador": "Suframa e Instituto Somar Amazônia",
-      "potencial": "Relacionamento",
-      "glp": "indústrias do Polo Industrial de Manaus: contatos para caldeiras, fornos e empilhadeiras"
-    },
-    {
-      "id": "multimodal-nordeste-2026",
-      "nome": "Multimodal Nordeste 2026",
-      "tipo": "Feira",
-      "segmentos": [
-        "Logística e empilhadeiras"
-      ],
-      "inicio": "2026-08-04",
-      "fim": "2026-08-06",
-      "cidade": "Recife",
-      "uf": "PE",
-      "local": "Recife Expo Center",
-      "preco": "Credenciamento pelo site oficial",
-      "gratuito": false,
-      "link": "https://www.multimodalnordeste.com.br/",
-      "organizador": "Insight Feiras & Negócios",
-      "potencial": "Alto",
-      "glp": "armazéns e operadores logísticos do Norte/Nordeste: empilhadeiras a GLP e abastecimento de frotas internas"
+      "glp": "construtoras e locadoras: aquecimento em canteiros, asfalto e equipamentos"
     }
   ]
 }
