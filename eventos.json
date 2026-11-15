@@ -1,7 +1,7 @@
 {
   "meta": {
-    "atualizadoEm": "2026-11-15T07:43:04-03:00",
-    "turno": "manhã",
+    "atualizadoEm": "2026-11-15T13:32:32-03:00",
+    "turno": "tarde",
     "agenda": "Atualização automática às 7h31 e às 13h31 (horário de Brasília)",
     "observacao": "Datas e locais conforme sites oficiais, organizadores e imprensa especializada. Onde o site oficial não foi confirmado, o botão abre uma busca. O potencial de GLP é uma leitura comercial do perfil de público de cada feira. Confirme sempre antes de se programar."
   },
@@ -142,6 +142,25 @@
       "preco": "Consulte o site oficial",
       "gratuito": false,
       "link": "https://www.google.com/search?q=Intermodal+South+America+2026",
+      "organizador": "Informa Markets",
+      "potencial": "Médio",
+      "glp": "Empilhadeiras a GLP em armazéns, centros de distribuição e terminais."
+    },
+    {
+      "id": "intermodal-south-america-2027",
+      "nome": "Intermodal South America 2027",
+      "tipo": "Feira",
+      "segmentos": [
+        "Logística e empilhadeiras"
+      ],
+      "inicio": "2027-04-13",
+      "fim": "2027-04-15",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "local": "Distrito Anhembi",
+      "preco": "Consulte o site oficial",
+      "gratuito": false,
+      "link": "https://www.intermodal.com.br/",
       "organizador": "Informa Markets",
       "potencial": "Médio",
       "glp": "Empilhadeiras a GLP em armazéns, centros de distribuição e terminais."
