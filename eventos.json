@@ -1,6 +1,6 @@
 {
   "meta": {
-    "atualizadoEm": "2026-11-15T13:32:32-03:00",
+    "atualizadoEm": "2026-11-16T13:31:52-03:00",
     "turno": "tarde",
     "agenda": "Atualização automática às 7h31 e às 13h31 (horário de Brasília)",
     "observacao": "Datas e locais conforme sites oficiais, organizadores e imprensa especializada. Onde o site oficial não foi confirmado, o botão abre uma busca. O potencial de GLP é uma leitura comercial do perfil de público de cada feira. Confirme sempre antes de se programar."
@@ -1639,6 +1639,47 @@
       "organizador": "ExpoConstruir / Avança Nordeste",
       "potencial": "Médio",
       "glp": "Construtoras e indústria de materiais do Nordeste: GLP em secagem, aquecimento de água e energia em canteiros no lugar do diesel."
+    },
+    {
+      "id": "feira-da-industria-fiern-2026",
+      "nome": "Feira da Indústria do RN 2026",
+      "tipo": "Feira",
+      "segmentos": [
+        "Alimentos e bebidas",
+        "Construção e mineração",
+        "Cerâmica e vidro",
+        "Multissetorial"
+      ],
+      "inicio": "2026-11-26",
+      "fim": "2026-11-27",
+      "cidade": "Natal",
+      "uf": "RN",
+      "local": "Casa da Indústria (Sistema FIERN), Lagoa Nova",
+      "preco": "Consulte o organizador",
+      "gratuito": false,
+      "link": "https://www.rn.senai.br/fiern-recebe-a-feira-da-industria-maior-evento-sobre-a-producao-industrial-do-rn-nos-dias-26-e-27-de-novembro/",
+      "organizador": "SESI e SENAI RN, com apoio da FIERN e IEL",
+      "potencial": "Médio",
+      "glp": "Panificação, laticínios, processamento de frutas, cerâmica e sal usam calor de processo que pode migrar de lenha e óleo para GLP."
+    },
+    {
+      "id": "encontro-novas-liderancas-industriais-2027",
+      "nome": "1º Encontro Nacional das Novas Lideranças Industriais",
+      "tipo": "Encontro",
+      "segmentos": [
+        "Multissetorial"
+      ],
+      "inicio": "2027-10-06",
+      "fim": "2027-10-08",
+      "cidade": "Cuiabá",
+      "uf": "MT",
+      "local": "Cuiabá (local a confirmar)",
+      "preco": "Consulte o organizador",
+      "gratuito": false,
+      "link": "https://fiemt.ind.br/noticias/6809/cuiaba-sera-palco-do-1o-encontro-nacional-das-novas-liderancas-industriais-em-2027",
+      "organizador": "CNI, Fiemt (Conselho Novos Líderes Industriais) e IEL",
+      "potencial": "Relacionamento",
+      "glp": "Contato com jovens empresários industriais do Centro-Oeste para indicar projetos de troca de lenha e diesel por GLP."
     }
   ]
 }
