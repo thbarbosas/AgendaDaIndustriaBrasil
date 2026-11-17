@@ -1,7 +1,7 @@
 {
   "meta": {
-    "atualizadoEm": "2026-11-17T07:33:18-03:00",
-    "turno": "manhã",
+    "atualizadoEm": "2026-11-17T13:31:43-03:00",
+    "turno": "tarde",
     "agenda": "Atualização automática às 7h31 e às 13h31 (horário de Brasília)",
     "observacao": "Datas e locais conforme sites oficiais, organizadores e imprensa especializada. Onde o site oficial não foi confirmado, o botão abre uma busca. O potencial de GLP é uma leitura comercial do perfil de público de cada feira. Confirme sempre antes de se programar."
   },
@@ -1680,6 +1680,25 @@
       "organizador": "CNI, Fiemt (Conselho Novos Líderes Industriais) e IEL",
       "potencial": "Relacionamento",
       "glp": "Contato com jovens empresários industriais do Centro-Oeste para indicar projetos de troca de lenha e diesel por GLP."
+    },
+    {
+      "id": "goias-tech-fashion-2027",
+      "nome": "Goiás Tech Fashion 2027",
+      "tipo": "Feira",
+      "segmentos": [
+        "Têxtil, couro e calçados"
+      ],
+      "inicio": "2027-06-22",
+      "fim": "2027-06-24",
+      "cidade": "Goiânia",
+      "uf": "GO",
+      "local": "Centro de Convenções de Goiânia – Pavilhão Azul",
+      "preco": "Consulte no site oficial",
+      "gratuito": false,
+      "link": "https://www.google.com/search?q=Goi%C3%A1s+Tech+Fashion+2027",
+      "organizador": "Febratex Group, com Sinvest e apoio da FIEG",
+      "potencial": "Alto",
+      "glp": "lavanderias de jeans, tinturaria e secagem do polo de confecção goiano"
     }
   ]
 }
