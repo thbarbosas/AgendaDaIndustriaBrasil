@@ -1,7 +1,7 @@
 {
   "meta": {
-    "atualizadoEm": "2026-11-17T13:31:43-03:00",
-    "turno": "tarde",
+    "atualizadoEm": "2026-11-18T07:38:13-03:00",
+    "turno": "manhã",
     "agenda": "Atualização automática às 7h31 e às 13h31 (horário de Brasília)",
     "observacao": "Datas e locais conforme sites oficiais, organizadores e imprensa especializada. Onde o site oficial não foi confirmado, o botão abre uma busca. O potencial de GLP é uma leitura comercial do perfil de público de cada feira. Confirme sempre antes de se programar."
   },
@@ -1699,6 +1699,26 @@
       "organizador": "Febratex Group, com Sinvest e apoio da FIEG",
       "potencial": "Alto",
       "glp": "lavanderias de jeans, tinturaria e secagem do polo de confecção goiano"
+    },
+    {
+      "id": "intercorr-2027",
+      "nome": "INTERCORR 2027 – 11º Congresso Internacional de Corrosão e 40ª Exposição de Tecnologias para Prevenção e Controle da Corrosão",
+      "tipo": "Congresso",
+      "segmentos": [
+        "Tratamento de superfície",
+        "Plásticos e química"
+      ],
+      "inicio": "2027-05-18",
+      "fim": "2027-05-21",
+      "cidade": "Fortaleza",
+      "uf": "CE",
+      "local": "Fortaleza (local a confirmar no site do evento)",
+      "preco": "Inscrição paga (valores no site)",
+      "gratuito": false,
+      "link": "https://intercorr2027.abraco.org.br/",
+      "organizador": "Abraco – Associação Brasileira de Corrosão",
+      "potencial": "Médio",
+      "glp": "Estufas de cura de pintura, banhos aquecidos e jateamento/pintura industrial que podem trocar eletricidade ou óleo por GLP."
     }
   ]
 }
