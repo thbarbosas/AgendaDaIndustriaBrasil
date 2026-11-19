@@ -1,7 +1,7 @@
 {
   "meta": {
-    "atualizadoEm": "2026-11-19T07:33:13-03:00",
-    "turno": "manhã",
+    "atualizadoEm": "2026-11-19T13:38:07-03:00",
+    "turno": "tarde",
     "agenda": "Atualização automática às 7h31 e às 13h31 (horário de Brasília)",
     "observacao": "Datas e locais conforme sites oficiais, organizadores e imprensa especializada. Onde o site oficial não foi confirmado, o botão abre uma busca. O potencial de GLP é uma leitura comercial do perfil de público de cada feira. Confirme sempre antes de se programar."
   },
@@ -1738,6 +1738,25 @@
       "organizador": "Panifair",
       "potencial": "Alto",
       "glp": "fornos de lastro e turbo de padarias e indústrias de panificação que podem trocar lenha ou eletricidade por GLP"
+    },
+    {
+      "id": "victam-latam-grapas-2027",
+      "nome": "VICTAM LatAm + GRAPAS LatAm 2027",
+      "tipo": "Feira",
+      "segmentos": [
+        "Alimentos e bebidas"
+      ],
+      "inicio": "2027-09-14",
+      "fim": "2027-09-16",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "local": "Expo Center Norte",
+      "preco": "Consulte no site oficial",
+      "gratuito": false,
+      "link": "https://victamlatam.com/en-us/",
+      "organizador": "Victam International",
+      "potencial": "Alto",
+      "glp": "Secadores de grãos e caldeiras de vapor para peletização em fábricas de ração e moinhos"
     }
   ]
 }
