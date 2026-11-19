@@ -1,7 +1,7 @@
 {
   "meta": {
-    "atualizadoEm": "2026-11-18T13:37:49-03:00",
-    "turno": "tarde",
+    "atualizadoEm": "2026-11-19T07:33:13-03:00",
+    "turno": "manhã",
     "agenda": "Atualização automática às 7h31 e às 13h31 (horário de Brasília)",
     "observacao": "Datas e locais conforme sites oficiais, organizadores e imprensa especializada. Onde o site oficial não foi confirmado, o botão abre uma busca. O potencial de GLP é uma leitura comercial do perfil de público de cada feira. Confirme sempre antes de se programar."
   },
@@ -1719,6 +1719,25 @@
       "organizador": "Abraco – Associação Brasileira de Corrosão",
       "potencial": "Médio",
       "glp": "Estufas de cura de pintura, banhos aquecidos e jateamento/pintura industrial que podem trocar eletricidade ou óleo por GLP."
+    },
+    {
+      "id": "panifair-2027",
+      "nome": "Panifair 2027 – Feira Internacional da Panificação",
+      "tipo": "Feira",
+      "segmentos": [
+        "Alimentos e bebidas"
+      ],
+      "inicio": "2027-04-15",
+      "fim": "2027-04-17",
+      "cidade": "Belo Horizonte",
+      "uf": "MG",
+      "local": "CenterMinas Expo",
+      "preco": "Consulte no site oficial",
+      "gratuito": false,
+      "link": "https://www.panifair.com/",
+      "organizador": "Panifair",
+      "potencial": "Alto",
+      "glp": "fornos de lastro e turbo de padarias e indústrias de panificação que podem trocar lenha ou eletricidade por GLP"
     }
   ]
 }
