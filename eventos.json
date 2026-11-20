@@ -1,7 +1,7 @@
 {
   "meta": {
-    "atualizadoEm": "2026-11-20T07:32:35-03:00",
-    "turno": "manhã",
+    "atualizadoEm": "2026-11-20T13:32:56-03:00",
+    "turno": "tarde",
     "agenda": "Atualização automática às 7h31 e às 13h31 (horário de Brasília)",
     "observacao": "Datas e locais conforme sites oficiais, organizadores e imprensa especializada. Onde o site oficial não foi confirmado, o botão abre uma busca. O potencial de GLP é uma leitura comercial do perfil de público de cada feira. Confirme sempre antes de se programar."
   },
@@ -1550,8 +1550,8 @@
         "Plásticos e química",
         "Multissetorial"
       ],
-      "inicio": "2027-10-01",
-      "fim": "2027-10-01",
+      "inicio": "2027-10-19",
+      "fim": "2027-10-22",
       "cidade": "Caxias do Sul",
       "uf": "RS",
       "local": "Centro de Feiras e Eventos Festa da Uva",
@@ -1560,8 +1560,7 @@
       "link": "https://mercopar.com.br",
       "organizador": "Sebrae RS e FIERGS",
       "potencial": "Alto",
-      "glp": "polo metalmecânico da Serra Gaúcha",
-      "dataAprox": "Data de 2027 ainda não divulgada; costuma ocorrer em outubro."
+      "glp": "polo metalmecânico da Serra Gaúcha"
     },
     {
       "id": "fenasan-2027",
