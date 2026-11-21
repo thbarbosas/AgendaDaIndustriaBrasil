@@ -1,7 +1,7 @@
 {
   "meta": {
-    "atualizadoEm": "2026-11-21T07:32:22-03:00",
-    "turno": "manhã",
+    "atualizadoEm": "2026-11-21T13:32:13-03:00",
+    "turno": "tarde",
     "agenda": "Atualização automática às 7h31 e às 13h31 (horário de Brasília)",
     "observacao": "Datas e locais conforme sites oficiais, organizadores e imprensa especializada. Onde o site oficial não foi confirmado, o botão abre uma busca. O potencial de GLP é uma leitura comercial do perfil de público de cada feira. Confirme sempre antes de se programar."
   },
@@ -1756,6 +1756,26 @@
       "organizador": "Victam International",
       "potencial": "Alto",
       "glp": "Secadores de grãos e caldeiras de vapor para peletização em fábricas de ração e moinhos"
+    },
+    {
+      "id": "abtcp-2026",
+      "nome": "ABTCP 2026 – Congresso e Exposição Internacional de Celulose e Papel",
+      "tipo": "Congresso",
+      "segmentos": [
+        "Embalagens e gráfica",
+        "Energia e eficiência"
+      ],
+      "inicio": "2026-10-06",
+      "fim": "2026-10-08",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "local": "Transamerica Expo Center",
+      "preco": "Exposição com credenciamento; congresso pago (consulte o site)",
+      "gratuito": false,
+      "link": "https://abtcp2026.org.br/",
+      "organizador": "ABTCP",
+      "potencial": "Médio",
+      "glp": "Fábricas de papel e embalagem usam vapor e secagem; GLP entra em caldeiras de apoio, secadores e infravermelho a gás."
     }
   ]
 }
