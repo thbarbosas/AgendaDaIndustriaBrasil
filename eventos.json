@@ -1,7 +1,7 @@
 {
   "meta": {
-    "atualizadoEm": "2026-11-21T13:32:13-03:00",
-    "turno": "tarde",
+    "atualizadoEm": "2026-11-22T07:33:01-03:00",
+    "turno": "manhã",
     "agenda": "Atualização automática às 7h31 e às 13h31 (horário de Brasília)",
     "observacao": "Datas e locais conforme sites oficiais, organizadores e imprensa especializada. Onde o site oficial não foi confirmado, o botão abre uma busca. O potencial de GLP é uma leitura comercial do perfil de público de cada feira. Confirme sempre antes de se programar."
   },
@@ -1776,6 +1776,47 @@
       "organizador": "ABTCP",
       "potencial": "Médio",
       "glp": "Fábricas de papel e embalagem usam vapor e secagem; GLP entra em caldeiras de apoio, secadores e infravermelho a gás."
+    },
+    {
+      "id": "brasillog-2027",
+      "nome": "BrasilLOG 2027 – 12ª Feira Internacional de Logística",
+      "tipo": "Feira",
+      "segmentos": [
+        "Logística e empilhadeiras",
+        "Embalagens e gráfica"
+      ],
+      "inicio": "2027-05-19",
+      "fim": "2027-05-21",
+      "cidade": "Jundiaí",
+      "uf": "SP",
+      "local": "Parque da Uva",
+      "preco": "Credenciamento gratuito pelo site oficial (proibida a entrada de menores de 18 anos)",
+      "gratuito": true,
+      "link": "https://feiradelogistica.com/",
+      "organizador": "Adelson Eventos",
+      "potencial": "Alto",
+      "glp": "armazéns, CDs e indústrias de alimentos e bebidas: empilhadeiras a GLP (feira com test drive de empilhadeiras)",
+      "lat": -23.19,
+      "lon": -46.88
+    },
+    {
+      "id": "expo-mecanica-ma-summit-2026",
+      "nome": "Expo Mecânica Maranhão Summit 2026",
+      "tipo": "Summit",
+      "segmentos": [
+        "Tratamento de superfície"
+      ],
+      "inicio": "2026-11-06",
+      "fim": "2026-11-06",
+      "cidade": "São Luís",
+      "uf": "MA",
+      "local": "Sede da FIEMA",
+      "preco": "Consulte o organizador",
+      "gratuito": false,
+      "link": "https://imirante.com/noticias/sao-luis/2026/11/06/expo-mecanica-ma-summit-reune-empresarios-especialistas",
+      "organizador": "SINDIREPA-MA, com FIEMA e Sebrae Maranhão",
+      "potencial": "Médio",
+      "glp": "oficinas de reparação automotiva: estufas e cabines de pintura com aquecimento a GLP"
     }
   ]
 }
