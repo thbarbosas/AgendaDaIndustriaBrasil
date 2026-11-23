@@ -1,7 +1,7 @@
 {
   "meta": {
-    "atualizadoEm": "2026-11-23T07:31:46-03:00",
-    "turno": "manhã",
+    "atualizadoEm": "2026-11-23T13:39:05-03:00",
+    "turno": "tarde",
     "agenda": "Atualização automática às 7h31 e às 13h31 (horário de Brasília)",
     "observacao": "Datas e locais conforme sites oficiais, organizadores e imprensa especializada. Onde o site oficial não foi confirmado, o botão abre uma busca. O potencial de GLP é uma leitura comercial do perfil de público de cada feira. Confirme sempre antes de se programar."
   },
@@ -1839,6 +1839,45 @@
       "glp": "Fornecedores da siderurgia e metalmecânica do Vale do Aço usam fornos, tratamento térmico, corte e solda que podem rodar a GLP.",
       "lat": -19.47,
       "lon": -42.54
+    },
+    {
+      "id": "fenagra-2026",
+      "nome": "Fenagra 2026 – Feira Internacional da Agroindústria Feed & Food, Tecnologia e Processamento",
+      "tipo": "Feira",
+      "segmentos": [
+        "Alimentos e bebidas",
+        "Bioenergia e saneamento"
+      ],
+      "inicio": "2026-05-12",
+      "fim": "2026-05-14",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "local": "Distrito Anhembi",
+      "preco": "Credenciamento no site oficial",
+      "gratuito": false,
+      "link": "https://www.fenagra.com.br/",
+      "organizador": "Fenagra (com ABRA, CBNA, SBOG e Ubrabio)",
+      "potencial": "Alto",
+      "glp": "Secadores, peletizadoras e caldeiras de fábricas de ração, graxarias e esmagadoras de óleo."
+    },
+    {
+      "id": "enaji-2026",
+      "nome": "VII ENAJI – Encontro Nacional de Jovens Industriais 2026",
+      "tipo": "Encontro",
+      "segmentos": [
+        "Multissetorial"
+      ],
+      "inicio": "2026-10-07",
+      "fim": "2026-10-09",
+      "cidade": "Natal",
+      "uf": "RN",
+      "local": "Praiamar Hotel",
+      "preco": "Inscrição no site da FIERN",
+      "gratuito": false,
+      "link": "https://www.google.com/search?q=ENAJI+2026+Natal+FIERN",
+      "organizador": "FIERN Jovem, CNI e IEL",
+      "potencial": "Relacionamento",
+      "glp": "Contato com jovens empresários industriais para indicações de troca de lenha, óleo e eletricidade por GLP."
     }
   ]
 }
