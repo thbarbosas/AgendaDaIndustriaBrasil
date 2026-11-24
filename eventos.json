@@ -1,7 +1,7 @@
 {
   "meta": {
-    "atualizadoEm": "2026-11-23T13:39:05-03:00",
-    "turno": "tarde",
+    "atualizadoEm": "2026-11-24T07:33:08-03:00",
+    "turno": "manhã",
     "agenda": "Atualização automática às 7h31 e às 13h31 (horário de Brasília)",
     "observacao": "Datas e locais conforme sites oficiais, organizadores e imprensa especializada. Onde o site oficial não foi confirmado, o botão abre uma busca. O potencial de GLP é uma leitura comercial do perfil de público de cada feira. Confirme sempre antes de se programar."
   },
@@ -1878,6 +1878,25 @@
       "organizador": "FIERN Jovem, CNI e IEL",
       "potencial": "Relacionamento",
       "glp": "Contato com jovens empresários industriais para indicações de troca de lenha, óleo e eletricidade por GLP."
+    },
+    {
+      "id": "concrete-show-2027",
+      "nome": "Concrete Show South America 2027",
+      "tipo": "Feira",
+      "segmentos": [
+        "Construção e mineração"
+      ],
+      "inicio": "2027-08-17",
+      "fim": "2027-08-19",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "local": "São Paulo Expo",
+      "preco": "Credenciamento de visitante no site oficial",
+      "gratuito": false,
+      "link": "https://www.concreteshow.com.br",
+      "organizador": "Informa Markets",
+      "potencial": "Médio",
+      "glp": "Usinas de concreto, pré-moldados e asfalto: cura térmica, aquecimento de agregados e água em vez de diesel e óleo."
     }
   ]
 }
